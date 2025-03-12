@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # == Rails ==
-gem "rails", "~> 8.0.1"                         # Rails本体
+gem "rails", "~> 8.0.2"                         # Rails本体
 gem "propshaft"                                 # モダンなアセットパイプライン [https://github.com/rails/propshaft]
 gem "importmap-rails"                           # JavaScriptのESMインポートマップ対応 [https://github.com/rails/importmap-rails]
 gem "turbo-rails"                               # HotwireによるSPAライクなページ遷移 [https://turbo.hotwired.dev]
